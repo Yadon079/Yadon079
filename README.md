@@ -1,7 +1,5 @@
 # Sunwoo Han (yadon079)
 
-## Cards
-
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyadon079)](https://github.com/yadon079)
 [![Github Followers](https://img.shields.io/github/followers/yadon079?color=06d6a0&label=Github%20Followers&style=for-the-badge)](https://github.com/yadon079?tab=followers)
 
