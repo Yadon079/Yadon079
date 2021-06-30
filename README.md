@@ -36,6 +36,9 @@
   - (2020.11 ~ 2021.02) 백기선님의 [온라인 자바 스터디 1기](https://github.com/whiteship/live-study) 참여
     
 ## Project
+  - 스테가노그라피(Steganography) 툴
+  - IoT를 활용한 홈 케어 : 반려동물 관리 어플리케이션
+  - GameCritics : 게임 전문 디지털 상점
   - [각종 알고리즘 공부](https://github.com/yadon079/learning-algorithm)
 
 ## Interest
