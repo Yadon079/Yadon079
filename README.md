@@ -1,15 +1,30 @@
 # Sunwoo Han (yadon079)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyadon079)](https://github.com/yadon079)
-[![Github Followers](https://img.shields.io/github/followers/yadon079?color=06d6a0&label=Github%20Followers&style=for-the-badge)](https://github.com/yadon079?tab=followers)
+<p align="center">
+  <img src="http://commitcombo.com/get?user=yadon079&theme=Perfume-mini">
+</p>
 
-[![Github Profile](https://github-readme-stats.vercel.app/api?username=yadon079&count_private=true&hide=contribs,prs&show_icons=true&theme=vue-dark)](https://github.com/yadon079)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yadon079&layout=compact&hide=Visual%20Basic)](https://github.com/anuraghazra/github-readme-stats)
-[![SolvedAC tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=thankowl777)](https://solved.ac/thankowl777)
+<p align="center">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyadon079">
+  <a href="https://github.com/yadon079?tab=followers"><img src="https://img.shields.io/github/followers/yadon079?color=06d6a0&label=Github%20Followers&style=for-the-badge"></a>
+</p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=yadon079&theme=chalk&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)  
-[![status](https://github-readme-streak-stats.herokuapp.com/?user=yadon079&)](#)
+<p align="center">
+  <a href="https://github.com/yadon079"><img src="https://github-readme-stats.vercel.app/api?username=yadon079&count_private=true&hide=contribs,prs&show_icons=true&theme=vue-dark"></a>
+</p>
 
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yadon079&layout=compact&hide=Visual%20Basic"></a>
+  <a href="https://solved.ac/thankowl777"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=thankowl777"></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yadon079&theme=chalk&row=1&column=7"></a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yadon079&">
+</p>
 
 ## Education
   - (2012.03 ~ 2019.02) 부경대학교 전자정보공학부 전자공학전공
@@ -24,16 +39,40 @@
   - [각종 알고리즘 공부](https://github.com/yadon079/learning-algorithm)
 
 ## Interest
- - Languages
-   - C/C++
-   - Java
-   
- - Frameworks
-   - Spring
-   - Node.js
-   
- - Problem Solving
-   - [Baekjoon](https://www.acmicpc.net/user/thankowl777)
+
+<h3 align="center" >Communication</h3 >
+<p align="center" >
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img alt="Notion" src="https://img.shields.io/badge/NOTION-000000?style=for-the-badge&logo=Notion&logoColor=white" />
+</p >
+
+<h3 align="center" >FrontEnd</h3 >
+<p align="center" >
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
+  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <br/>
+  <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p >
+
+<h3 align="center" >BackEnd</h3 >
+<p align="center" >
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+</p >
+
+<h3 align="center" >Other Language</h3 >
+<p align="center" >
+  <img alt="C" src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
+</p >
+
+<h3 align="center" >Problem Solving</h3 >
+<p align="center" >
+  <img alt="BOJ" src="https://img.shields.io/badge/BACKJOON-007396?style=for-the-badge&logo=&logoColor=white" />
+  <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+</p >
   
 ## Contacts
   - [Github Repo Issue](https://github.com/yadon079/yadon079/issues)
