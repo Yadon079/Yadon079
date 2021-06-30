@@ -43,6 +43,7 @@
 <h3 align="center" >Communication</h3 >
 <p align="center" >
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img alt="Notion" src="https://img.shields.io/badge/NOTION-000000?style=for-the-badge&logo=Notion&logoColor=white" />
 </p >
 
