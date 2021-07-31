@@ -39,6 +39,7 @@
   - 스테가노그라피(Steganography) 툴
   - IoT를 활용한 홈 케어 : 반려동물 관리 어플리케이션
   - GameCritics : 게임 전문 디지털 상점
+  - MarketTradi : 전통시장 활성화를 위한 웹 쇼핑몰
   - [각종 알고리즘 공부](https://github.com/yadon079/learning-algorithm)
 
 ## Interest
