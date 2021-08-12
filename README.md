@@ -1,15 +1,6 @@
 # Sunwoo Han (yadon079)
 
 <p align="center">
-  <img src="http://commitcombo.com/get?user=yadon079&theme=Perfume-mini">
-</p>
-
-<p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyadon079">
-  <a href="https://github.com/yadon079?tab=followers"><img src="https://img.shields.io/github/followers/yadon079?color=06d6a0&label=Github%20Followers&style=for-the-badge"></a>
-</p>
-
-<p align="center">
   <a href="https://github.com/yadon079"><img src="https://github-readme-stats.vercel.app/api?username=yadon079&count_private=true&hide=contribs,prs&show_icons=true&theme=vue-dark"></a>
 </p>
 
@@ -24,6 +15,11 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yadon079&">
+</p>
+
+<p align="center">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyadon079">
+  <a href="https://github.com/yadon079?tab=followers"><img src="https://img.shields.io/github/followers/yadon079?color=06d6a0&label=Github%20Followers&style=for-the-badge"></a>
 </p>
 
 ## Education
