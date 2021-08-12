@@ -35,7 +35,7 @@
   - 스테가노그라피(Steganography) 툴
   - IoT를 활용한 홈 케어 : 반려동물 관리 어플리케이션
   - GameCritics : 게임 전문 디지털 상점
-  - MarketTradi : 전통시장 활성화를 위한 웹 쇼핑몰
+  - MarketTrandi : 전통시장 활성화를 위한 웹 쇼핑몰
   - [각종 알고리즘 공부](https://github.com/yadon079/learning-algorithm)
 
 ## Interest
@@ -62,6 +62,12 @@
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+</p >
+
+<h3 align="center" >Infra</h3 >
+<p align="center" >
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
 </p >
 
 <h3 align="center" >Tools</h3 >
